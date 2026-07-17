@@ -1,29 +1,27 @@
 <h1 align="center">Hi 👋, I'm Trishad Phogole</h1>
-<h3 align="center">Data Engineer & Data Scientist | Microsoft Fabric · Azure · Python · SQL</h3>
+<h3 align="center">Data Engineer | Data Scientist</h3>
 
-<p align="center">
-I design scalable data pipelines and lakehouse platforms, then turn that data into models and dashboards that drive decisions.
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:phogolettrishad7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center">📍 Johannesburg, South Africa</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a data engineer who works end-to-end across the data lifecycle — ingesting and modeling raw data, building automated ETL/ELT pipelines, and delivering the analytics and machine learning that sit on top of them.
+Data Engineer and Data Scientist with hands-on experience spanning data engineering, machine learning, and business intelligence across the **fintech** and **mining** industries. I build scalable pipelines, deploy ML models, and turn raw data into decisions — currently doing this at scale for MTN's MoMo fintech platform.
 
 **Currently focused on:**
 - Microsoft Fabric & Lakehouse architecture
-- Azure data engineering (ADF, ADLS Gen2, Synapse)
-- Pipeline automation & orchestration
-- Data warehousing & dimensional modeling
-- Power BI analytics & reporting
-- Applied machine learning
+- Azure data engineering (ADF, ADLS, Azure DevOps)
+- ETL/ELT pipeline automation (Airflow, Power Automate)
+- Data quality, governance & STTM documentation
+- Applied machine learning & GenAI/LLM engineering
 
 ---
 
@@ -31,37 +29,37 @@ I'm a data engineer who works end-to-end across the data lifecycle — ingesting
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
 
-**Data Engineering:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure) ![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square) ![ADLS Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow)
+**Data Engineering:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure) ![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
 
-**Databases:** ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+**Cloud & BI:** ![Azure](https://img.shields.io/badge/Azure_Cloud-0078D4?style=flat-square&logo=microsoftazure) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**Analytics & BI:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![SQL Server](https://img.shields.io/badge/SQL_Server_SSMS-CC2927?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square)
 
-**Machine Learning:** Scikit-Learn · TensorFlow · PyTorch · NLP · Transformers · Pandas · NumPy
+**Machine Learning & AI:** Scikit-Learn · TensorFlow · PyTorch · Supervised & Unsupervised Learning · Feature Engineering · Hyperparameter Tuning · A/B Testing · GenAI (NLP, LLMs, RAG, Prompt Engineering)
 
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+**DevOps & Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 
 ---
 
 ## 📌 Featured Projects
 
-> Replace each placeholder below with a real repo link, and lead with the outcome, not just the tool list — recruiters skim for impact.
+> Replace each placeholder with a real repo link once published — impact-first descriptions perform better than tool lists alone.
 
-### 🚀 Microsoft Fabric Data Platform
-Built a lakehouse platform on Microsoft Fabric — Delta tables, medallion architecture, and Fabric notebooks — feeding automated Power BI reporting.
-`[Add repo link] · Pipelines · Lakehouse · Delta Tables · Notebooks`
+### 🚀 Fabric-Based Data Mart & Automation Platform
+Architected data marts in Microsoft Fabric as a single source of truth for fintech KPI reporting, and automated a 100+ file daily SFTP-to-staging sync using batch scripting and WinSCP.
+`[Add repo link] · Microsoft Fabric · Data Marts · Batch Scripting · WinSCP`
 
-### ⚡ ETL Automation Pipeline
-Automated ingestion and transformation pipeline using Python, PySpark, Airflow, and Azure Data Factory, replacing manual data refreshes with a scheduled, monitored workflow.
-`[Add repo link] · Python · PySpark · Airflow · ADF`
+### ⚡ Automated Data Quality & Incident Alerting
+Built Power Automate workflows that detect pipeline failures, notify stakeholders, and trigger reprocessing of late-arriving or missing files — cutting incident response time and keeping downstream reporting reliable.
+`[Add repo link] · Power Automate · Data Quality · Incident Management`
 
-### 📊 Executive Analytics Dashboard
-Interactive Power BI dashboards with drill-through reporting, KPI tracking, and automated data quality checks for stakeholder decision-making.
-`[Add repo link] · Power BI · DAX · Data Quality Monitoring`
+### 📊 KPI Dashboard Suite
+Interactive Power BI dashboards covering research outputs, HR metrics, and divisional performance, with validation rules and drill-through reporting used to cut manual reporting time.
+`[Add repo link] · Power BI · DAX · Data Validation`
 
-### 🤖 Predictive Modeling & NLP
-Applied classification, regression, and NLP techniques with a focus on feature engineering and rigorous model evaluation.
-`[Add repo link] · Scikit-Learn · NLP · Feature Engineering`
+### 🤖 ML-Driven Operations Optimization
+Developed and deployed machine learning models — with A/B testing and feature engineering — to optimize organizational operations and support data-driven decisions.
+`[Add repo link] · Scikit-Learn · A/B Testing · Feature Engineering`
 
 ---
 
@@ -77,35 +75,46 @@ Applied classification, regression, and NLP techniques with a focus on feature e
 
 ---
 
-## 🌱 Currently Learning
+## 🎓 Education
 
-- Advanced Microsoft Fabric engineering
-- Apache Spark performance tuning
-- MLOps
-- Docker & Kubernetes
-- CI/CD for data pipelines
+- **BSc Honours, Computer Science** — University of Limpopo *(Feb 2024–Dec 2024)*
+- **BSc, Computer Science and Statistics** — University of Limpopo *(Feb 2020–Dec 2023)*
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Training
 
+**Coursera / IBM**
+- IBM Data Analyst Professional Certificate
+- IBM Data Science Professional Certificate
+- IBM Data Engineering Professional Certificate
+- IBM Machine Learning Professional Certificate
+- IBM Generative AI Engineering Professional Certificate
 - IBM AI Engineering Professional Certificate
-- IBM Generative AI Engineering
-- Microsoft Fabric
-- Microsoft Azure Fundamentals
-- AWS Certified Cloud Practitioner
-- SAS Programming
+
+**Udemy**
+- Complete Databricks & PySpark Bootcamp
+- Azure Data Engineering End-to-End
+- Microsoft Power BI: Beginner to Advanced
+- Credit Risk Modelling & Credit Scoring Using ML
+- IFRS 9 ECL Model Development & Validation
+- Basel Accords (II, III, IV): Risk Management & Banking Regulations
+
+**Other**
+- SAS Programming Essentials (SAS)
+- Blazing Moon Corporate Training — Work Readiness Programme
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 Portfolio: [YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)
-- ✉️ Email: your@email.com
+- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](http://www.linkedin.com/in/trishad-phogole-48a75b23b)
+- 🌐 Portfolio: [YOUR_PORTFOLIO](https://trishadkano.github.io/trish_portfolio_7/)
+- ✉️ Email: mailto:www.phogolettrishad7@gmail.com
 
 ---
 
 <p align="center"><i>Great data engineering is invisible — when pipelines just work, businesses can focus on making better decisions.</i></p>
 
 <p align="center">⭐️ If you find my projects useful, consider starring the repositories!</p>
+
