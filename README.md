@@ -25,9 +25,10 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
+**Languages:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
 
 **Data Engineering:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure) ![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
 
@@ -41,29 +42,29 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 > Replace each placeholder with a real repo link once published — impact-first descriptions perform better than tool lists alone.
 
-### 🚀 Fabric-Based Data Mart & Automation Platform
+### Fabric-Based Data Mart & Automation Platform
 Architected data marts in Microsoft Fabric as a single source of truth for fintech KPI reporting, and automated a 100+ file daily SFTP-to-staging sync using batch scripting and WinSCP.
 `[Add repo link] · Microsoft Fabric · Data Marts · Batch Scripting · WinSCP`
 
-### ⚡ Automated Data Quality & Incident Alerting
+### Automated Data Quality & Incident Alerting
 Built Power Automate workflows that detect pipeline failures, notify stakeholders, and trigger reprocessing of late-arriving or missing files — cutting incident response time and keeping downstream reporting reliable.
 `[Add repo link] · Power Automate · Data Quality · Incident Management`
 
-### 📊 KPI Dashboard Suite
+### KPI Dashboard Suite
 Interactive Power BI dashboards covering research outputs, HR metrics, and divisional performance, with validation rules and drill-through reporting used to cut manual reporting time.
 `[Add repo link] · Power BI · DAX · Data Validation`
 
-### 🤖 ML-Driven Operations Optimization
+### ML-Driven Operations Optimization
 Developed and deployed machine learning models — with A/B testing and feature engineering — to optimize organizational operations and support data-driven decisions.
 `[Add repo link] · Scikit-Learn · A/B Testing · Feature Engineering`
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
@@ -75,14 +76,14 @@ Developed and deployed machine learning models — with A/B testing and feature 
 
 ---
 
-## 🎓 Education
+## Education
 
 - **BSc Honours, Computer Science** — University of Limpopo *(Feb 2024–Dec 2024)*
 - **BSc, Computer Science and Statistics** — University of Limpopo *(Feb 2020–Dec 2023)*
 
 ---
 
-## 🏆 Certifications & Training
+## Certifications & Training
 
 **Coursera / IBM**
 - IBM Data Analyst Professional Certificate
@@ -108,9 +109,9 @@ Developed and deployed machine learning models — with A/B testing and feature 
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](http://www.linkedin.com/in/trishad-phogole-48a75b23b)
-- 🌐 Portfolio: [YOUR_PORTFOLIO](https://trishadkano.github.io/trish_portfolio_7/)
-- ✉️ Email: mailto:www.phogolettrishad7@gmail.com
+- 💼 LinkedIn: [LinkedIn](http://www.linkedin.com/in/trishad-phogole-48a75b23b)
+- 🌐 Portfolio: [Portfolio](https://trishadkano.github.io/trish_portfolio_7/)
+- ✉️ Email: [Email](mailto:www.phogolettrishad7@gmail.com)
 
 ---
 
