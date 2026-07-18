@@ -27,7 +27,10 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 ## Tech Stack
 
 **Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) 
+![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
 
 **Data Engineering:** 
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square) 
