@@ -35,7 +35,15 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 
 **Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![SQL Server](https://img.shields.io/badge/SQL_Server_SSMS-CC2927?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square)
 
-**ML & Data Science:** ![Pandas](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![NumPy](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Matplotlib](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Seaborn](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Scikit-learn](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![PyTorch](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  ![Tensorflow](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Power BI](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) 
+**ML & Data Science:**   
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 
 
