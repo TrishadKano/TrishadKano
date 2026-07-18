@@ -79,21 +79,9 @@ Data Engineer and Data Scientist with hands-on experience in data engineering, m
 
 ## Featured Projects
 
-### Fabric-Based Data Mart & Automation Platform
-Architected data marts in Microsoft Fabric as a single source of truth for fintech KPI reporting, and automated a 100+ file daily SFTP-to-staging sync using batch scripting and WinSCP.
-`[Add repo link] · Microsoft Fabric · Data Marts · Batch Scripting · WinSCP`
-
-### Automated Data Quality & Incident Alerting
-Built Power Automate workflows that detect pipeline failures, notify stakeholders, and trigger reprocessing of late-arriving or missing files — cutting incident response time and keeping downstream reporting reliable.
-`[Add repo link] · Power Automate · Data Quality · Incident Management`
-
-### KPI Dashboard Suite
-Interactive Power BI dashboards covering research outputs, HR metrics, and divisional performance, with validation rules and drill-through reporting used to cut manual reporting time.
-`[Add repo link] · Power BI · DAX · Data Validation`
-
-### ML-Driven Operations Optimization
-Developed and deployed machine learning models — with A/B testing and feature engineering — to optimize organizational operations and support data-driven decisions.
-`[Add repo link] · Scikit-Learn · A/B Testing · Feature Engineering`
+<p align="center">
+Building scalable data solutions, intelligent models, and impactful analytics. ⭐️ Feel free to explore my projects repository!
+</p>
 
 ---
 
@@ -151,5 +139,5 @@ Developed and deployed machine learning models — with A/B testing and feature 
 
 <p align="center"><i>From scalable data pipelines to machine learning models, turning data into intelligent decisions.</i></p>
 
-<p align="center">⭐️ If you find my projects useful, consider starring the repositories!</p>
+
 
