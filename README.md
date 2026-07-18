@@ -18,9 +18,8 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 
 **Currently focused on:**
 - Microsoft Fabric & Lakehouse architecture
-- Azure data engineering (ADF, ADLS, Azure DevOps)
 - ETL/ELT pipeline automation (Airflow, Power Automate)
-- Data quality, governance & STTM documentation
+- Data quality & governance
 - Applied machine learning & GenAI/LLM engineering
 
 ---
@@ -36,9 +35,10 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 
 **Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![SQL Server](https://img.shields.io/badge/SQL_Server_SSMS-CC2927?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square)
 
-**Machine Learning & AI:** Scikit-Learn · TensorFlow · PyTorch · Supervised & Unsupervised Learning · Feature Engineering · Hyperparameter Tuning · A/B Testing · GenAI (NLP, LLMs, RAG, Prompt Engineering)
-
 **DevOps & Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+
+**ML & Data Science:** ![Pandas](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![NumPy](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Matplotlib](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Seaborn](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Scikit-learn](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![PyTorch](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  ![Tensorflow](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![Power BI](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+
 
 ---
 
