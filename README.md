@@ -16,11 +16,12 @@
 
 Data Engineer and Data Scientist with hands-on experience spanning data engineering, machine learning, and business intelligence across the **fintech** and **mining** industries. I build scalable pipelines, deploy ML models, and turn raw data into decisions — currently doing this at scale for MTN's MoMo fintech platform.
 
-**Currently focused on:**
-- Microsoft Fabric & Lakehouse architecture
-- ETL/ELT pipeline automation (Airflow, Power Automate)
-- Data quality & governance
-- Applied machine learning & GenAI/LLM engineering
+### Currently Focused On
+
+- Microsoft Fabric & Lakehouse Architecture
+- Scalable ETL/ELT Pipeline Development & Automation
+- Data Quality, Governance & Observability
+- Machine Learning, Generative AI & LLM Engineering
 
 ---
 
@@ -149,7 +150,7 @@ Developed and deployed machine learning models — with A/B testing and feature 
 
 ---
 
-<p align="center"><i>Great data engineering is invisible — when pipelines just work, businesses can focus on making better decisions.</i></p>
+<p align="center"><i>From scalable data pipelines to machine learning models, turning data into intelligent decisions.</i></p>
 
 <p align="center">⭐️ If you find my projects useful, consider starring the repositories!</p>
 
