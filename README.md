@@ -102,11 +102,12 @@ Developed and deployed machine learning models — with A/B testing and feature 
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TrishadKano&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrishadKano&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TrishadKano&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrishadKano&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishadKano&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrishadKano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 ---
