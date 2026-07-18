@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer and Data Scientist with hands-on experience spanning data engineering, machine learning, and business intelligence across the **fintech** and **mining** industries. I build scalable pipelines, deploy ML models, and turn raw data into decisions — currently doing this at scale for MTN's MoMo fintech platform.
+Data Engineer and Data Scientist with hands-on experience in data engineering, machine learning, and business intelligence across the **fintech** and **mining** industries. Passionate about building scalable data platforms, developing intelligent models, and transforming raw data into trusted insights. Currently engineering enterprise-scale data solutions for **MTN MoMo (MTN Group Fintech)**, enabling reliable analytics and data-driven decision-making.
 
 ### Currently Focused On
 
