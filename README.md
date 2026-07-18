@@ -29,11 +29,29 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 **Languages:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
 
-**Data Engineering:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux) ![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-742774?style=flat-square)
+**Data Engineering:** 
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) 
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow) 
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) 
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux) 
+![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-742774?style=flat-square)
 
-**Cloud & BI:** ![Azure](https://img.shields.io/badge/Azure_Cloud-0078D4?style=flat-square&logo=microsoftazure) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+**Cloud & BI:** 
+![Azure](https://img.shields.io/badge/Azure_Cloud-0078D4?style=flat-square&logo=microsoftazure) 
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi) 
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![SQL Server](https://img.shields.io/badge/SQL_Server_SSMS-CC2927?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square)
+**Databases:** 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) 
+![SQL Server](https://img.shields.io/badge/SQL_Server_SSMS-CC2927?style=flat-square) 
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) 
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square)
 
 **ML & Data Science:**   
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -43,7 +61,6 @@ Data Engineer and Data Scientist with hands-on experience spanning data engineer
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 
 
