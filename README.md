@@ -79,8 +79,6 @@ Data Engineer and Data Scientist with hands-on experience in data engineering, m
 
 ## Featured Projects
 
-> Replace each placeholder with a real repo link once published — impact-first descriptions perform better than tool lists alone.
-
 ### Fabric-Based Data Mart & Automation Platform
 Architected data marts in Microsoft Fabric as a single source of truth for fintech KPI reporting, and automated a 100+ file daily SFTP-to-staging sync using batch scripting and WinSCP.
 `[Add repo link] · Microsoft Fabric · Data Marts · Batch Scripting · WinSCP`
